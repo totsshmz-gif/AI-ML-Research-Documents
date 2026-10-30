@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the main idea behind residual learning?",
+        "expected_sources": ["resnet.pdf"],
+        "expected_keywords": ["residual", "H(x)", "F(x)", "identity"],
+        "answerable": true
+    },
+    {
+        "question": "What problem does residual learning help address?",
+        "expected_sources": ["resnet.pdf"],
+        "expected_keywords": ["degradation", "deep", "network", "training"],
+        "answerable": true
+    },
+    {
+        "question": "Why do residual networks use shortcut connections?",
+        "expected_sources": ["resnet.pdf"],
+        "expected_keywords": ["shortcut", "identity", "residual"],
+        "answerable": true
+    },
+    {
+        "question": "How does Vision Transformer process an image?",
+        "expected_sources": ["vit.pdf"],
+        "expected_keywords": ["patch", "flatten", "embedding", "transformer"],
+        "answerable": true
+    },
+    {
+        "question": "What is the purpose of image patches in Vision Transformer?",
+        "expected_sources": ["vit.pdf"],
+        "expected_keywords": ["patch", "sequence", "embedding"],
+        "answerable": true
+    },
+    {
+        "question": "How does ViT differ from traditional convolutional neural networks?",
+        "expected_sources": ["vit.pdf"],
+        "expected_keywords": ["convolution", "self-attention", "transformer"],
+        "answerable": true
+    },
+    {
+        "question": "What is the purpose of shifted windows in Swin Transformer?",
+        "expected_sources": ["swin_transformer.pdf"],
+        "expected_keywords": ["shifted", "windows", "connections", "attention"],
+        "answerable": true
+    },
+    {
+        "question": "How does Swin Transformer achieve hierarchical representations?",
+        "expected_sources": ["swin_transformer.pdf"],
+        "expected_keywords": ["hierarchical", "patch", "merging", "feature"],
+        "answerable": true
+    },
+    {
+        "question": "Why does Swin Transformer use local window attention?",
+        "expected_sources": ["swin_transformer.pdf"],
+        "expected_keywords": ["window", "attention", "computational", "efficiency"],
+        "answerable": true
+    },
+    {
+        "question": "How is Vision Transformer different from ResNet?",
+        "expected_sources": ["vit.pdf", "resnet.pdf"],
+        "expected_keywords": ["transformer", "self-attention", "residual", "convolution"],
+        "answerable": true
+    },
+    {
+        "question": "How does Swin Transformer differ from Vision Transformer?",
+        "expected_sources": ["swin_transformer.pdf", "vit.pdf"],
+        "expected_keywords": ["window", "self-attention", "hierarchical", "patch"],
+        "answerable": true
+    },
+    {
+        "question": "What is the architecture of GPT-5?",
+        "expected_sources": [],
+        "expected_keywords": [],
+        "answerable": false
+    },
+    {
+        "question": "What is the latest version of Python?",
+        "expected_sources": [],
+        "expected_keywords": [],
+        "answerable": false
+    },
+    {
+        "question": "What is the weather today?",
+        "expected_sources": [],
+        "expected_keywords": [],
+        "answerable": false
+    },
+    {
+        "question": "Who is the CEO of NVIDIA?",
+        "expected_sources": [],
+        "expected_keywords": [],
+        "answerable": false
+    }
+]
