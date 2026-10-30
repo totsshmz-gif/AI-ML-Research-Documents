@@ -24,7 +24,7 @@ The system is designed to provide grounded answers using only the research paper
 # Project Overview
 
 AI/ML Research Navigator allows users to ask natural-language questions about research papers.
-<img width="1910" height="865" alt="image" src="https://github.com/user-attachments/assets/f9a3df43-cf3a-40ff-9a99-3e52728c3a81" />
+<img width="1909" height="870" alt="image" src="https://github.com/user-attachments/assets/246eff97-2942-4957-b116-8ee3d67793de" />
 
 
 Instead of sending the question directly to an LLM, the application follows a Retrieval-Augmented Generation workflow:
